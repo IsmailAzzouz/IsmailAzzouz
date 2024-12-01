@@ -56,7 +56,7 @@ I'm **Ismail Azzouz**, a **Software Engineer** in my **graduation year** 🚀. I
 ---
 
 ## 📫 Get in Touch
-- **Email:** [ismail.azzouz.dev@gmail.com](mailto:ismail.azzouz@helb-prigogine.be)
+- **Email:** [ismail.azzouz@helb-prigogine.be](mailto:ismail.azzouz@helb-prigogine.be)
 - **LinkedIn:** [Ismail Azzouz](https://linkedin.com/in/ismail-azzouz)
 - **Portfolio:** *Not ready yet !*
 
