@@ -35,6 +35,8 @@ I'm **Ismail Azzouz**, a **Software Engineer** in my **graduation year** 🚀. I
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
@@ -42,7 +44,8 @@ I'm **Ismail Azzouz**, a **Software Engineer** in my **graduation year** 🚀. I
 - **CTF Challenges:** Tackling intriguing cybersecurity competitions 🕵️‍♂️
 - **Spring Boot & PostgreSQL:** Developing robust backend systems
 - **React Native & NativeWind:** Crafting beautiful, performant mobile apps
-- **Azure EventGrid:** Exploring cloud-based event-driven architectures
+- **Firebase Authentication & Realtime Database:** Creating secure, scalable authentication systems
+- **IOT HUB:** Exploring cloud-based event-driven IOT architectures
 
 ---
 
@@ -53,15 +56,15 @@ I'm **Ismail Azzouz**, a **Software Engineer** in my **graduation year** 🚀. I
 ---
 
 ## 📫 Get in Touch
-- **Email:** [ismail.azzouz.dev@gmail.com](mailto:ismail.azzouz.dev@gmail.com)
-- **LinkedIn:** [Ismail Azzouz](https://linkedin.com/in/ismail-azzouz) *(Add your actual link here)*
-- **Portfolio:** *(Add your portfolio link here if available)*
+- **Email:** [ismail.azzouz.dev@gmail.com](mailto:ismail.azzouz@helb-prigogine.be)
+- **LinkedIn:** [Ismail Azzouz](https://linkedin.com/in/ismail-azzouz)
+- **Portfolio:** *Not ready yet !*
 
 ---
 
 ## ⚡ Fun Facts
 - I thrive on challenges – both in development and cybersecurity competitions!
-- A tech enthusiast who loves exploring new frameworks and languages.
+- A tech enthusiast who loves exploring new frameworks and languages or technologys.
 - 🌍 Multilingual coder who bridges ideas across cultures.
 
 ---
