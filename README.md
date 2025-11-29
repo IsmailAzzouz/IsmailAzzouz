@@ -1,72 +1,131 @@
-# Hi there 👋 Welcome to My GitHub Profile!
+<div align="center">
+  <img src="./header.svg" alt="header" />
+</div>
 
-I'm **Ismail Azzouz**, a **Software Engineer** in my **graduation year** 🚀. I love building things that make an impact, and my journey so far spans multiple domains, from software development to cybersecurity challenges.
+## 👋 Hey, I'm Ismail Azzouz
 
----
-
-## 🌟 About Me
-- 🎓 **Education:** Software Engineering at [University College HELB - Haute Ecole Libre de Bruxelles Ilya Prigogine](https://www.helb-prigogine.be/)
-- 🏆 **Cybersecurity Enthusiast:** Passionate about CTF challenges and security projects
-- 🛠️ **Projects:** I have developed several **mobile**, **desktop**, **web**, and **multi-platform** applications
-- 🌐 **Languages I Speak:** French, English, Arabic
+Fresh graduate turned **Software Engineering Consultant** working on real-time data infrastructure at scale. When I'm not optimizing time-series databases or building AI-powered tools, you'll find me hunting flags in CTFs or chasing apex times in sim racing.
 
 ---
 
-## 🛠️ My Tech Toolbox
+## 🎯 What I'm Up To
 
-### Programming Languages
+**💼 Currently**
+- Building real-time data engines for global factory networks at **Ike Luxembourg** (since Oct 2025)
+- Processing massive streams of IoT data with **InfluxDB** & **TimeScaleDB** — reliability and performance at scale
+- Developing SaaS ideas that leverage LLMs and computer vision to simplify workflows for professionals
+
+**🏆 Recent Wins**
+- 🥇 Top 1 — Federal Police CTF Belgium 2025
+- 🥇 Top 1 — CyberCrusade CTF HELB 2024 & 2025
+- 🥈 Top 2 — Federal Police CTF Belgium 2024
+- 🏅 Top 13 — CSCBE 2025 (Country-wide)
+- 🥉 Top 3 — CyberWeek Wallonia 2025 (Pro Category)
+
+**🎓 Background**
+- Bachelor in Software Engineering — HELB Ilya Prigogine (Graduated Nov 27, 2025)
+- Led a 3-person team at **Devoteam Belgium** (6-month internship) building an AI-powered consultant matching engine from scratch — think smart filtering that scores consultants based on mission requirements, giving HR and Sales teams instant insights on availability, expertise, and client fit
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### Frameworks and Tools
+### Frameworks & Tools
+![.NET Maui](https://img.shields.io/badge/-.NET%20Maui-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Maui](https://img.shields.io/badge/-Maui-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
+![TimeScaleDB](https://img.shields.io/badge/-TimeScaleDB-FDB515?style=flat&logo=timescale&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![Aurora](https://img.shields.io/badge/-Aurora-FF9900?style=flat&logo=amazonrds&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+### AI & APIs
+Working with major LLM APIs: **Claude**, **Gemini**, **ChatGPT**, **DeepSeek**, **Copilot**, and more
 
 ---
 
-## 🔭 Current Focus
-- **CTF Challenges:** Tackling intriguing cybersecurity competitions 🕵️‍♂️
-- **Spring Boot & PostgreSQL:** Developing robust backend systems
-- **React Native & NativeWind:** Crafting beautiful, performant mobile apps
-- **Firebase Authentication & Realtime Database:** Creating secure, scalable authentication systems
-- **IOT HUB:** Exploring cloud-based event-driven IOT architectures
+## 🌱 Learning & Growing
+
+Currently sharpening my cybersecurity skills through:
+- **TryHackMe** labs and challenges
+- **Infinity Learning** platform
+- Active CTF participation across Belgium and Europe
 
 ---
 
-## 🌱 What I'm Learning
-- Advanced system design for scalable apps
-- Enhancing my skills in **cybersecurity** and **cloud development**
+## 💼 Experience Highlights
+
+**Ike Luxembourg** — Software Engineering Consultant *(Oct 2025 - Present)*  
+Building real-time data infrastructure for global manufacturing operations
+
+**Devoteam Belgium** — AI Development Team Lead *(6-month Internship)*  
+Led development of an AI consultant-matching platform, streamlining client assignments for HR and sales teams
+
+**Freelance Projects** — Various clients  
+Delivered mobile and web applications, including a valet management system for automotive service centers
 
 ---
 
-## 📫 Get in Touch
-- **Email:** [ismail.azzouz@helb-prigogine.be](mailto:ismail.azzouz@helb-prigogine.be)
-- **LinkedIn:** [Ismail Azzouz](https://linkedin.com/in/ismail-azzouz)
-- **Portfolio:** *Not ready yet !*
+## 📫 Let's Connect
+
+- 📧 Email: [ismail.azzouz@helb-prigogine.be](mailto:ismail.azzouz@helb-prigogine.be) | [ismailazzouz.cast@gmail.com](mailto:ismailazzouz.cast@gmail.com)
+- 💼 LinkedIn: [Ismail Azzouz](https://linkedin.com/in/ismail-azzouz)
+- 🌐 Portfolio: *Coming soon*
 
 ---
 
-## ⚡ Fun Facts
-- I thrive on challenges – both in development and cybersecurity competitions!
-- A tech enthusiast who loves exploring new frameworks and languages or technologys.
-- 🌍 Multilingual coder who bridges ideas across cultures.
+## ⚡ Beyond the Code
+
+When I close my IDE, you might catch me:
+- **🏎️ Sim Racing**: Currently tearing up Le Mans Ultimate, iRacing, and F1 25 with my Moza R16 setup — yes, I have the official Belgian Esport driving license and I'm still learning the ropes but loving every corner
+- **📸 Photography**: Capturing beautifully engineered machines whenever I can — there's something about the curves of a well-designed car that just hits different
+- **🔐 CTF Hunting**: Because breaking things (legally) is the best way to learn how to build secure systems
+
+**Fun fact**: I speak three languages fluently (French, English, Arabic) but my code comments are... let's say "internationally inconsistent" 😅
 
 ---
 
-🎉 Thanks for stopping by! Feel free to explore my repositories and connect with me!
+<div align="center">
+  
+💡 *Building systems that scale, breaking challenges that don't, and racing lines that probably won't make me faster*
+
+Thanks for stopping by! Feel free to explore my repos or reach out — always down to chat about tech, security, or why that one corner in Spa-Francorchamps is absolutely cursed.
+
+</div>
