@@ -1,0 +1,154 @@
+<svg fill="none" viewBox="0 0 1200 300" width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes gradient {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+        
+        @keyframes float {
+          0%, 100% { transform: translateY(0px); }
+          50% { transform: translateY(-10px); }
+        }
+        
+        @keyframes pulse {
+          0%, 100% { opacity: 1; }
+          50% { opacity: 0.5; }
+        }
+        
+        .container {
+          background: linear-gradient(-45deg, #0f0c29, #302b63, #24243e, #0f0c29);
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+          width: 100%;
+          height: 300px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          position: relative;
+          overflow: hidden;
+        }
+        
+        .grid {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          background-image: 
+            linear-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+            linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+          background-size: 50px 50px;
+          opacity: 0.3;
+        }
+        
+        .content {
+          position: relative;
+          z-index: 1;
+          text-align: center;
+          padding: 20px;
+        }
+        
+        .title {
+          font-size: 72px;
+          font-weight: 900;
+          margin: 0;
+          background: linear-gradient(90deg, #00f5ff, #00d4ff, #00f5ff);
+          background-size: 200% auto;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          background-clip: text;
+          animation: gradient 3s linear infinite;
+          letter-spacing: -2px;
+          text-shadow: 0 0 30px rgba(0, 245, 255, 0.5);
+        }
+        
+        .subtitle {
+          font-size: 24px;
+          color: #a0aec0;
+          margin: 10px 0 0 0;
+          font-weight: 300;
+          letter-spacing: 4px;
+        }
+        
+        .accent {
+          color: #00f5ff;
+          font-weight: 500;
+        }
+        
+        .dots {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          top: 0;
+          left: 0;
+        }
+        
+        .dot {
+          position: absolute;
+          width: 4px;
+          height: 4px;
+          background: #00f5ff;
+          border-radius: 50%;
+          animation: pulse 2s infinite;
+        }
+        
+        .dot:nth-child(1) { top: 20%; left: 10%; animation-delay: 0s; }
+        .dot:nth-child(2) { top: 40%; left: 20%; animation-delay: 0.5s; }
+        .dot:nth-child(3) { top: 60%; left: 80%; animation-delay: 1s; }
+        .dot:nth-child(4) { top: 80%; left: 70%; animation-delay: 1.5s; }
+        .dot:nth-child(5) { top: 30%; left: 90%; animation-delay: 0.3s; }
+        .dot:nth-child(6) { top: 70%; left: 15%; animation-delay: 0.8s; }
+        
+        .tag-container {
+          display: flex;
+          gap: 12px;
+          margin-top: 20px;
+          justify-content: center;
+          flex-wrap: wrap;
+        }
+        
+        .tag {
+          background: rgba(0, 245, 255, 0.1);
+          border: 1px solid rgba(0, 245, 255, 0.3);
+          padding: 6px 14px;
+          border-radius: 20px;
+          font-size: 14px;
+          color: #00f5ff;
+          font-weight: 500;
+          animation: float 3s ease-in-out infinite;
+        }
+        
+        .tag:nth-child(2) { animation-delay: 0.2s; }
+        .tag:nth-child(3) { animation-delay: 0.4s; }
+        .tag:nth-child(4) { animation-delay: 0.6s; }
+      </style>
+      
+      <div class="container">
+        <div class="grid"></div>
+        <div class="dots">
+          <div class="dot"></div>
+          <div class="dot"></div>
+          <div class="dot"></div>
+          <div class="dot"></div>
+          <div class="dot"></div>
+          <div class="dot"></div>
+        </div>
+        
+        <div class="content">
+          <h1 class="title">ISMAIL AZZOUZ</h1>
+          <p class="subtitle">SOFTWARE ENGINEER <span class="accent">×</span> CYBERSEC <span class="accent">×</span> SIMRACER</p>
+          
+          <div class="tag-container">
+            <span class="tag">🏗️ Building at Scale</span>
+            <span class="tag">🛡️ Breaking Things Legally</span>
+            <span class="tag">🏎️ Racing Pixels</span>
+            <span class="tag">📸 Capturing Machines</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
