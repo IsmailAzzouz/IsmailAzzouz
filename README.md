@@ -19,7 +19,7 @@ Fresh graduate turned **Software Engineering Consultant** working on real-time d
 - 🥇 Top 1 — Federal Police CTF Belgium 2025
 - 🥇 Top 1 — CyberCrusade CTF HELB 2024 & 2025
 - 🥈 Top 2 — Federal Police CTF Belgium 2024
-- 🏅 Top 13 — CSCBE 2025 (Country-wide)
+- 🏅 Top 17 (0.1%) — CSCBE 2025 (Country-wide)
 - 🥉 Top 3 — CyberWeek Wallonia 2025 (Pro Category)
 
 **🎓 Background**
