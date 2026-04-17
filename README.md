@@ -4,7 +4,7 @@
 
 ## 👋 Hey, I'm Ismail Azzouz
 
-Fresh graduate turned **Software Engineering Consultant** working on real-time data infrastructure at scale. When I'm not optimizing time-series databases or building AI-powered tools, you'll find me hunting flags in CTFs or chasing apex times in sim racing.
+Fresh graduate turned **Software Engineering Consultant** working on real world problems at scale. When I'm not optimizing code-bases or building AI-powered tools, you'll find me hunting flags in CTFs or chasing apex times in sim racing.
 
 ---
 
@@ -92,7 +92,10 @@ Currently sharpening my cybersecurity skills through:
 
 ## 💼 Experience Highlights
 
-**Ike Luxembourg** — Software Engineering Consultant *(Oct 2025 - Present)*  
+**Ike Luxembourg** — Software Engineering Consultant *(March 2026 - April 2026)*  
+Building compangy wide KPI centralisation and tracking plateform
+
+**Ike Luxembourg** — Software Engineering Consultant *(Sept 2025 - Feb 2026)*  
 Building real-time data infrastructure for global manufacturing operations
 
 **Devoteam Belgium** — AI Development Team Lead *(6-month Internship)*  
