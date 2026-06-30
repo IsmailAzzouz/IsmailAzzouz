@@ -67,7 +67,7 @@
           position: relative;
         }
 
-        /* Typography & Header */
+        /* Typography &amp; Header */
         .header-block {
           margin-top: 10px;
         }
@@ -192,7 +192,7 @@
           mix-blend-mode: multiply;
         }
 
-        /* Industrial Barcode & Status */
+        /* Industrial Barcode &amp; Status */
         .sys-container {
           display: flex;
           flex-direction: column;
