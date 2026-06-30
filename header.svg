@@ -130,7 +130,7 @@
           gap: 60px;
         }
 
-        /* Text & List Styling */
+        /* Text &amp; List Styling */
         .sub-heading {
           font-family: 'Inter', system-ui, sans-serif;
           font-size: 20px;
