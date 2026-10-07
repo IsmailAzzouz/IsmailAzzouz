@@ -1,0 +1,250 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2106" viewBox="0 0 1600 2106" role="img" aria-labelledby="title description">
+<title id="title">Ismail Azzouz — Software Engineer. Sovereignty is paramount.</title>
+<desc id="description">A wide monochrome engineering profile: identity and philosophy, a career timeline, a two-column three-row project grid including Foundry coming soon, a dedicated skills section and security results. Full text and repository links are available in the README.</desc>
+<defs>
+  <!-- One continuous geometric metal loop. Reflections are confined to the object. -->
+  <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#181818"/><stop offset=".28" stop-color="#555555"/>
+    <stop offset=".48" stop-color="#e8e8e8"/><stop offset=".57" stop-color="#969696"/>
+    <stop offset="1" stop-color="#161616"/>
+  </linearGradient>
+  <linearGradient id="metal" x1=".1" y1="0" x2=".8" y2="1">
+    <stop offset="0" stop-color="#777777"/><stop offset=".18" stop-color="#ededed"/>
+    <stop offset=".32" stop-color="#b6b6b6"/><stop offset=".46" stop-color="#575757"/>
+    <stop offset=".52" stop-color="#222222"/><stop offset=".59" stop-color="#929292"/>
+    <stop offset=".7" stop-color="#f5f5f5"/><stop offset=".85" stop-color="#a4a4a4"/>
+    <stop offset="1" stop-color="#3d3d3d"/>
+  </linearGradient>
+  <linearGradient id="lip" x1="0" y1="0" x2="1" y2=".2">
+    <stop offset="0" stop-color="#555555"/><stop offset=".32" stop-color="#dddddd"/>
+    <stop offset=".58" stop-color="#ffffff"/><stop offset="1" stop-color="#444444"/>
+  </linearGradient>
+  <linearGradient id="inner" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#111111"/><stop offset=".6" stop-color="#595959"/>
+    <stop offset="1" stop-color="#c0c0c0"/>
+  </linearGradient>
+</defs>
+<style>
+text{font-family:Helvetica,Arial,sans-serif;font-weight:400;fill:#f0f0f0}
+.name{font-size:80px;font-weight:500;letter-spacing:-2.5px}
+.role{font-size:34px;fill:#ddd}
+.statement{font-size:48px;font-weight:500;letter-spacing:-1px}
+.section{font-size:23px;letter-spacing:1.1px;fill:#a3a3a3}
+.heading{font-size:30px;font-weight:500;letter-spacing:-.4px}
+.body{font-size:28px;fill:#ccc}
+.small{font-size:24px;fill:#aaa}
+.tech{font-size:23px;fill:#aaa;letter-spacing:.2px}
+.focus{font-size:38px;font-weight:500;letter-spacing:-.5px}
+.rule{fill:none;stroke:#303030;stroke-width:1}
+</style>
+<rect width="1600" height="2106" fill="#000"/>
+<g opacity="0.2" transform="translate(1280 180) rotate(-14) scale(2)" aria-hidden="true">
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0V15C291 71 161 113 0 113S-291 71-291 15ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#edge)" fill-rule="evenodd"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0S161 98 0 98S-291 56-291 0ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#metal)" fill-rule="evenodd"/>
+  <path d="M-246-3C-246-38-136-66 0-66S246-38 246-3C246 5 240 12 231 18C207-9 113-30 0-30S-207-9-231 18C-240 12-246 5-246-3Z" fill="url(#inner)"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0" fill="none" stroke="url(#lip)" stroke-width="1.5"/>
+  <path d="M-289 11C-272 60-148 98 0 98S272 60 289 11" fill="none" stroke="url(#lip)" stroke-width="1"/>
+  <path d="M-246-3C-246 32-136 60 0 60S246 32 246-3" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+</g>
+<g opacity="0.2" transform="translate(1280 180) rotate(-14) scale(1)" aria-hidden="true">
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0V15C291 71 161 113 0 113S-291 71-291 15ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#edge)" fill-rule="evenodd"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0S161 98 0 98S-291 56-291 0ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#metal)" fill-rule="evenodd"/>
+  <path d="M-246-3C-246-38-136-66 0-66S246-38 246-3C246 5 240 12 231 18C207-9 113-30 0-30S-207-9-231 18C-240 12-246 5-246-3Z" fill="url(#inner)"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0" fill="none" stroke="url(#lip)" stroke-width="1.5"/>
+  <path d="M-289 11C-272 60-148 98 0 98S272 60 289 11" fill="none" stroke="url(#lip)" stroke-width="1"/>
+  <path d="M-246-3C-246 32-136 60 0 60S246 32 246-3" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+</g><g opacity="0.2" transform="translate(1280 180) rotate(-14) scale(2)" aria-hidden="true">
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0V15C291 71 161 113 0 113S-291 71-291 15ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#edge)" fill-rule="evenodd"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0S161 98 0 98S-291 56-291 0ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#metal)" fill-rule="evenodd"/>
+  <path d="M-246-3C-246-38-136-66 0-66S246-38 246-3C246 5 240 12 231 18C207-9 113-30 0-30S-207-9-231 18C-240 12-246 5-246-3Z" fill="url(#inner)"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0" fill="none" stroke="url(#lip)" stroke-width="1.5"/>
+  <path d="M-289 11C-272 60-148 98 0 98S272 60 289 11" fill="none" stroke="url(#lip)" stroke-width="1"/>
+  <path d="M-246-3C-246 32-136 60 0 60S246 32 246-3" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+</g>
+<g opacity="0.2" transform="translate(1280 180) rotate(-14) scale(1)" aria-hidden="true">
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0V15C291 71 161 113 0 113S-291 71-291 15ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#edge)" fill-rule="evenodd"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0S161 98 0 98S-291 56-291 0ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#metal)" fill-rule="evenodd"/>
+  <path d="M-246-3C-246-38-136-66 0-66S246-38 246-3C246 5 240 12 231 18C207-9 113-30 0-30S-207-9-231 18C-240 12-246 5-246-3Z" fill="url(#inner)"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0" fill="none" stroke="url(#lip)" stroke-width="1.5"/>
+  <path d="M-289 11C-272 60-148 98 0 98S272 60 289 11" fill="none" stroke="url(#lip)" stroke-width="1"/>
+  <path d="M-246-3C-246 32-136 60 0 60S246 32 246-3" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+</g>
+<g opacity="0.2" transform="translate(100 1800) rotate(28) scale(2)" aria-hidden="true">
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0V15C291 71 161 113 0 113S-291 71-291 15ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#edge)" fill-rule="evenodd"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0S161 98 0 98S-291 56-291 0ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#metal)" fill-rule="evenodd"/>
+  <path d="M-246-3C-246-38-136-66 0-66S246-38 246-3C246 5 240 12 231 18C207-9 113-30 0-30S-207-9-231 18C-240 12-246 5-246-3Z" fill="url(#inner)"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0" fill="none" stroke="url(#lip)" stroke-width="1.5"/>
+  <path d="M-289 11C-272 60-148 98 0 98S272 60 289 11" fill="none" stroke="url(#lip)" stroke-width="1"/>
+  <path d="M-246-3C-246 32-136 60 0 60S246 32 246-3" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+</g><g opacity="0.2" transform="translate(100 1770) rotate(28) scale(1)" aria-hidden="true">
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0V15C291 71 161 113 0 113S-291 71-291 15ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#edge)" fill-rule="evenodd"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0S161 98 0 98S-291 56-291 0ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#metal)" fill-rule="evenodd"/>
+  <path d="M-246-3C-246-38-136-66 0-66S246-38 246-3C246 5 240 12 231 18C207-9 113-30 0-30S-207-9-231 18C-240 12-246 5-246-3Z" fill="url(#inner)"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0" fill="none" stroke="url(#lip)" stroke-width="1.5"/>
+  <path d="M-289 11C-272 60-148 98 0 98S272 60 289 11" fill="none" stroke="url(#lip)" stroke-width="1"/>
+  <path d="M-246-3C-246 32-136 60 0 60S246 32 246-3" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+</g><g opacity="0.2" transform="translate(100 1800) rotate(28) scale(2)" aria-hidden="true">
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0V15C291 71 161 113 0 113S-291 71-291 15ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#edge)" fill-rule="evenodd"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0S161 98 0 98S-291 56-291 0ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#metal)" fill-rule="evenodd"/>
+  <path d="M-246-3C-246-38-136-66 0-66S246-38 246-3C246 5 240 12 231 18C207-9 113-30 0-30S-207-9-231 18C-240 12-246 5-246-3Z" fill="url(#inner)"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0" fill="none" stroke="url(#lip)" stroke-width="1.5"/>
+  <path d="M-289 11C-272 60-148 98 0 98S272 60 289 11" fill="none" stroke="url(#lip)" stroke-width="1"/>
+  <path d="M-246-3C-246 32-136 60 0 60S246 32 246-3" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+</g><g opacity="0.2" transform="translate(100 1770) rotate(28) scale(1)" aria-hidden="true">
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0V15C291 71 161 113 0 113S-291 71-291 15ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#edge)" fill-rule="evenodd"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0S161 98 0 98S-291 56-291 0ZM-246-3C-246 32-136 60 0 60S246 32 246-3S136-66 0-66S-246-38-246-3Z" fill="url(#metal)" fill-rule="evenodd"/>
+  <path d="M-246-3C-246-38-136-66 0-66S246-38 246-3C246 5 240 12 231 18C207-9 113-30 0-30S-207-9-231 18C-240 12-246 5-246-3Z" fill="url(#inner)"/>
+  <path d="M-291 0C-291-56-161-98 0-98S291-56 291 0" fill="none" stroke="url(#lip)" stroke-width="1.5"/>
+  <path d="M-289 11C-272 60-148 98 0 98S272 60 289 11" fill="none" stroke="url(#lip)" stroke-width="1"/>
+  <path d="M-246-3C-246 32-136 60 0 60S246 32 246-3" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+</g>
+
+<text x="60" y="124" class="name">ISMAIL AZZOUZ</text>
+<text x="64" y="178" class="role">Software Engineer</text>
+<text x="64" y="220" class="small">Sovereignty is paramount</text>
+<path d="M64 280H1536" class="rule"/>
+<text x="64" y="332" class="section">EXPERIENCE &amp; EDUCATION</text>
+<path d="M64 402H1536" class="rule"/>
+<text x="64" y="374" class="tech">INTERNSHIP</text>
+<circle cx="68" cy="402" r="5" fill="#aaa"/>
+<text x="444" y="374" class="tech">JUN 2025</text>
+<circle cx="448" cy="402" r="5" fill="#aaa"/>
+<text x="824" y="374" class="tech">OCT 2025</text>
+<circle cx="828" cy="402" r="5" fill="#aaa"/>
+<text x="1204" y="374" class="tech">JUN 2026</text>
+<circle cx="1208" cy="402" r="5" fill="#f0f0f0"/>
+<text x="64" y="454" class="heading">Devoteam Belgium</text>
+<text x="64" y="496" class="small">Team Lead —</text>
+<text x="64" y="528" class="small">Creative Tech Pillar</text>
+<text x="64" y="560" class="small">Approximately six months</text>
+<text x="64" y="592" class="small">LLM opportunity classification</text>
+<text x="64" y="624" class="small">and consultant matching.</text>
+<text x="444" y="454" class="heading">Graduation</text>
+<text x="444" y="496" class="small">HELB Ilya Prigogine</text>
+<text x="444" y="528" class="small">Bachelor’s degree in</text>
+<text x="444" y="560" class="small">Software Engineering</text>
+<text x="444" y="592" class="small">2022–2025</text>
+<text x="824" y="454" class="heading">Joined iKe Solutions</text>
+<text x="824" y="496" class="small">Consulting employment</text>
+<text x="824" y="528" class="small">Paul Wurth mission</text>
+<text x="824" y="560" class="small">Production legacy code,</text>
+<text x="824" y="592" class="small">new features and data engine.</text>
+<text x="1204" y="454" class="heading">EY Luxembourg</text>
+<text x="1204" y="496" class="small">Software Engineer</text>
+<text x="1204" y="528" class="small">Client change via iKe Solutions</text>
+<text x="1204" y="560" class="small">Enterprise software</text>
+<text x="1204" y="592" class="small">projects.</text>
+<path d="M64 656H1536" class="rule"/>
+<text x="64" y="708" class="section">SELECTED ENGINEERING WORK</text>
+<text x="64" y="764" class="heading">AXIS Computer Use</text>
+<text x="64" y="798" class="tech">PYTHON / AI AGENTS / MCP</text>
+<text x="64" y="836" class="body">Accessibility-first, semantic desktop interaction.</text>
+<text x="64" y="870" class="body">Local broker. Permissions. Action journaling.</text>
+<text x="840" y="764" class="heading">FileViewer</text>
+<text x="840" y="798" class="tech">RUST / GPUI / NATIVE DESKTOP</text>
+<text x="840" y="836" class="body">Hand-written parsers and source-exact ASTs.</text>
+<text x="840" y="870" class="body">Bidirectional navigation. Validation diagnostics.</text>
+<text x="840" y="904" class="body">JSON · JSONC · JSONL · TOML · YAML</text>
+<path d="M64 936H1536" class="rule"/>
+<text x="64" y="988" class="heading">RapidMD</text>
+<text x="64" y="1022" class="tech">RUST / MARKDOWN / GFM</text>
+<text x="64" y="1060" class="body">Native editing, preview and crash recovery.</text>
+<text x="64" y="1094" class="body">OS integration. Windows and Linux builds.</text>
+<text x="840" y="988" class="heading">Quick Recorded eXchange</text>
+<text x="840" y="1022" class="tech">RUST / FFMPEG / ZBAR / SHA-256</text>
+<text x="840" y="1060" class="body">File transfer through video streams of QR codes.</text>
+<text x="840" y="1094" class="body">Concurrent processing. No network transport.</text>
+<path d="M64 1126H1536" class="rule"/>
+<text x="64" y="1178" class="heading">CTFDownloader</text>
+<text x="64" y="1212" class="tech">PYTHON / CLI / CTFd</text>
+<text x="64" y="1250" class="body">Resumable challenge and attachment archives.</text>
+<text x="64" y="1284" class="body">Atomic downloads. Directory traversal protection.</text>
+<text x="840" y="1178" class="heading">Foundry</text>
+<text x="840" y="1250" class="body">Cost Optimized AI-Harness.</text>
+<text x="840" y="1216" class="tech">COMING SOON</text>
+<path d="M64 1336H1536" class="rule"/><!-- ========================================================= -->
+<!-- TECHNICAL PROFILE -->
+<!-- Market-facing first, differentiators second               -->
+<!-- ========================================================= -->
+
+<text x="64" y="1388" class="section">ENGINEERING PROFILE</text>
+
+<!-- COLUMN 1 — enterprise -->
+<text x="64" y="1444" class="heading">Enterprise engineering</text>
+<text x="64" y="1490" class="focus">C# / .NET · Java / Spring</text>
+<text x="64" y="1528" class="small">ASP.NET · Entity Framework · Spring Boot</text>
+<text x="64" y="1560" class="small">REST APIs · Backend architecture · SQL</text>
+
+<!-- COLUMN 2 — systems -->
+<text x="576" y="1444" class="heading">Systems &amp; native</text>
+<text x="576" y="1490" class="focus">Rust · Python</text>
+<text x="576" y="1528" class="small">Native desktop · CLI tooling</text>
+<text x="576" y="1560" class="small">Parsing · ASTs · Local-first software</text>
+
+<!-- COLUMN 3 — AI -->
+<text x="1088" y="1444" class="heading">AI &amp; intelligent systems</text>
+<text x="1088" y="1490" class="focus">LLMs · MCP · Computer Use</text>
+<text x="1088" y="1528" class="small">AI agents · Classification</text>
+<text x="1088" y="1560" class="small">Semantic matching · Local execution</text>
+
+
+<!-- SECOND ROW -->
+
+<text x="64" y="1616" class="heading">Web engineering</text>
+<text x="64" y="1658" class="small">TypeScript / JavaScript · React</text>
+<text x="64" y="1690" class="small">Angular · Full-stack applications</text>
+
+<text x="576" y="1616" class="heading">Data engineering</text>
+<text x="576" y="1658" class="small">PostgreSQL · SQL Server</text>
+<text x="576" y="1690" class="small">TimescaleDB · InfluxDB · Time-series data</text>
+
+<text x="1088" y="1616" class="heading">Platform &amp; delivery</text>
+<text x="1088" y="1658" class="small">Azure · AWS · GitHub Actions</text>
+<text x="1088" y="1690" class="small">CI/CD · Cloud infrastructure · Git</text>
+
+
+<!-- ========================================================= -->
+<!-- SECURITY TRACK RECORD -->
+<!-- ========================================================= -->
+
+<path d="M64 1746H1536" class="rule"/>
+
+<text x="64" y="1798" class="section">SECURITY / CTF TRACK RECORD</text>
+
+<!-- Row 1 -->
+
+<text x="64" y="1856" class="heading">RCCU · Federal Police 2025</text>
+<text x="64" y="1896" class="body">1st place</text>
+<text x="64" y="1930" class="small">Federal Police of Brussels</text>
+
+<text x="576" y="1856" class="heading">CyberCrusade 2025</text>
+<text x="576" y="1896" class="body">1st place · 8,325 pts</text>
+<text x="576" y="1930" class="small">HELB cybersecurity CTF</text>
+
+<text x="1088" y="1856" class="heading">CSCBE 2025</text>
+<text x="1088" y="1896" class="body">17th · National final</text>
+<text x="1088" y="1930" class="small">13th on Final Day 1 · TripleMooonstre</text>
+
+
+<!-- Row 2 -->
+
+<text x="64" y="1992" class="heading">RCCU · Federal Police 2024</text>
+<text x="64" y="2032" class="body">2nd place</text>
+<text x="64" y="2066" class="small">Federal Police of Brussels</text>
+
+<text x="576" y="1992" class="heading">CyberWeek 2025</text>
+<text x="576" y="2032" class="body">Top 3 · Professional category</text>
+<text x="576" y="2066" class="small">Digital Wallonia · A6K</text>
+
+<text x="1088" y="1992" class="heading">Security practice</text>
+<text x="1088" y="2032" class="body">Offensive security · CTF</text>
+<text x="1088" y="2066" class="small">LLM red teaming · Secure system design</text>
+
+<path d="M64 2126H1536" class="rule"/>
+
+<text x="64" y="2178" class="small">
+  SOVEREIGNTY IS PARAMOUNT · LOCAL FIRST · OWNERSHIP BY DEFAULT
+</text>
+
+<text x="1250" y="2178" class="small">GitHub / IsmailAzzouz</text>
+</svg>
